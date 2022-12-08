@@ -1,0 +1,1 @@
+The next improvement that this project needs to focus on is to have a separate directory for each entity type. Since the project is still in its infant phase, the number of entities and files is still manageable. However, in the long run, it will most likely be messy. 
